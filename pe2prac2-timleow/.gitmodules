@@ -1,0 +1,6 @@
+[submodule "pe2prac1-timleow"]
+	path = pe2prac1-timleow
+	url = https://github.com/timleow/PE2_Practices.git
+[submodule "pe2prac2-timleow"]
+	path = pe2prac2-timleow
+	url = https://github.com/timleow/PE2_Practices.git
